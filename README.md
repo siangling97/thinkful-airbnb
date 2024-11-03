@@ -3,7 +3,7 @@ This is a project I created while attending Thinkful's Software Engineering Boot
 
 Thinkful-bnb is a mock vacation rental website that allows people to rent out their homes to people who are seeking short-term accommodations in that locale. It is not a fully functional website and was created in order to practice mobile-first development.
 
-[Live Link](https://jtam128.github.io/thinkful-bnb/)
+[Live Link](https://thinkful-airbnb.vercel.app/)
 
 # Technology & Tools
 Built with:
